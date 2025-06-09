@@ -17,9 +17,9 @@ console.log(countOfDigits(99088)); // 5
 console.log(countOfDigits(9.9088)); // 1 - considering decimals are ignored
 console.log(countOfDigits(8)); // 1
 console.log(countOfDigits(0)); // 1
-console.log(countOfDigits(045)); // 2
-console.log(countOfDigits(07)); // 1
-console.log(countOfDigits(00)); // 1
+// console.log(countOfDigits(045)); // 2
+// console.log(countOfDigits(07)); // 1
+// console.log(countOfDigits(00)); // 1
 
 console.log(Math.floor(11.9)); // 11
 console.log(Math.ceil(11.1)); // 12
