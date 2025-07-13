@@ -14,4 +14,4 @@ function oddSum(i) {
   return oddNumToAdd + oddSum(i + 1);
 }
 
-console.log(oddSum(0));
+console.log(oddSum(0)); // 9

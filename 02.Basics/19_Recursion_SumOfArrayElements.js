@@ -13,4 +13,4 @@ function arraySum(i) {
   return arr[i] + arraySum(i + 1);
 }
 
-console.log(arraySum(0));
+console.log(arraySum(0)); // 18
